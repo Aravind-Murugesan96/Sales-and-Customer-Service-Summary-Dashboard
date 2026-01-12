@@ -10,15 +10,10 @@ All data used in this project is anonymized and sanitized. Agent names, sensitiv
 This project focuses on building interactive daily summary dashboards that help managers and stakeholders:
 
 * Track agent-wise performance in real time
-
 * Monitor login hours, break patterns, and adherence
-
 * Compare productivity across different activity types
-
 * Identify high performers and improvement areas quickly
-
 * Reduce manual reporting effort
-
 * The dashboards are designed to be simple, actionable, and scalable for day-to-day operations.
 
 ## 📈 Dashboards Included
@@ -35,28 +30,28 @@ This project focuses on building interactive daily summary dashboards that help 
 * Top-performing states and area codes
 * Agent-level efficiency and sales ratio
 
-🔹 Customer Service Daily Summary Dashboard
+## 🔹 Customer Service Daily Summary Dashboard
 
-Key Insights:
+### Key Insights:
 
-Agent login and availability tracking
-Personal and bathroom break analysis
-Break count comparison (within vs exceeding thresholds)
-Compliance monitoring against defined standards
-Agent-wise activity snapshot for quick reviews
+* Agent login and availability tracking
+* Personal and bathroom break analysis
+* Break count comparison (within vs exceeding thresholds)
+* Compliance monitoring against defined standards
+* Agent-wise activity snapshot for quick reviews
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Tableau
-MySQL
-Excel
-ETL
-KPI Design
+* Tableau
+* MySQL
+* Excel
+* ETL
+* KPI Design
 
-🎯 Key Outcomes
+## 🎯 Key Outcomes
 
-Improved transparency in daily operations
-Faster performance reviews for team leads
-Clear visibility into productivity and compliance
-Reduced dependency on manual Excel reporting
-Easy identification of operational bottlenecks
+* Improved transparency in daily operations
+* Faster performance reviews for team leads
+* Clear visibility into productivity and compliance
+* Reduced dependency on manual Excel reporting
+* Easy identification of operational bottlenecks
