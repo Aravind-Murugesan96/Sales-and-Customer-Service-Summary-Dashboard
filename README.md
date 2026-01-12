@@ -32,6 +32,7 @@ This project focuses on building interactive daily summary dashboards that help 
 * Agent-level efficiency and sales ratio
 
 ## 🔹 Customer Service Daily Summary Dashboard
+**[Click to view Customer Service Summary Dashboard](https://github.com/Aravind-Murugesan96/Sales-and-Customer-Service-Summary-Dashboard/blob/main/PS%20-%20cus%20serv%20daily%20summary.png)**
 
 ### Key Insights:
 
