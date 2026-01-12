@@ -5,14 +5,20 @@ Tableau dashboards designed to provide daily operational visibility into sales a
 ⚠️ Disclaimer:
 All data used in this project is anonymized and sanitized. Agent names, sensitive metrics, and client identifiers have been blurred or removed. This repository is shared strictly for portfolio and learning purposes.
 
-###🚀 Project Overview
+🚀 Project Overview
 
 This project focuses on building interactive daily summary dashboards that help managers and stakeholders:
+
 Track agent-wise performance in real time
+
 Monitor login hours, break patterns, and adherence
+
 Compare productivity across different activity types
+
 Identify high performers and improvement areas quickly
+
 Reduce manual reporting effort
+
 The dashboards are designed to be simple, actionable, and scalable for day-to-day operations.
 
 📈 Dashboards Included
