@@ -19,7 +19,7 @@ This project focuses on building interactive daily summary dashboards that help 
 ## 📈 Dashboards Included
 
 ## 🔹 Sales Summary Dashboard
-**[Click to view Sales Summary Dashboard](images/sales-dashboard.png)**
+**[Click to view Sales Summary Dashboard](https://github.com/Aravind-Murugesan96/Sales-and-Customer-Service-Summary-Dashboard/blob/main/PS%20-%20sales%20daily%20summary.png)**
 
 ### Key Insights:
 
